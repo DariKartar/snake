@@ -1,0 +1,7 @@
+C:\Users\adminmosprr.HP\Documents\CODE\snake\Shake\Shake\bin\Debug\Shake.exe.config
+C:\Users\adminmosprr.HP\Documents\CODE\snake\Shake\Shake\bin\Debug\Shake.exe
+C:\Users\adminmosprr.HP\Documents\CODE\snake\Shake\Shake\bin\Debug\Shake.pdb
+C:\Users\adminmosprr.HP\Documents\CODE\snake\Shake\Shake\obj\Debug\Shake.csprojAssemblyReference.cache
+C:\Users\adminmosprr.HP\Documents\CODE\snake\Shake\Shake\obj\Debug\Shake.csproj.CoreCompileInputs.cache
+C:\Users\adminmosprr.HP\Documents\CODE\snake\Shake\Shake\obj\Debug\Shake.exe
+C:\Users\adminmosprr.HP\Documents\CODE\snake\Shake\Shake\obj\Debug\Shake.pdb
